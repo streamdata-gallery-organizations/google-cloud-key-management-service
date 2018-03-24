@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: google-cloud-key-management-service-kms.api.streamdata.gallery
+title: Streamdata Gallery Google Cloud Key Management Service (KMS)
+url: google-cloud-key-management-service-kms.streamdata.gallery
 tag: Google Cloud Key Management Service (KMS)
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: google-cloud-key-management-service-kms
 github_branch: master
 collections:
