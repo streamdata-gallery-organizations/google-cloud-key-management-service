@@ -1,10 +1,11 @@
-title: Streamdata Gallery Google Cloud Key Management Service (KMS)
-url: google-cloud-key-management-service-kms.streamdata.gallery
-tag: Google Cloud Key Management Service (KMS)
+title: Streamdata API Gallery - 
+description: A gallery of APIs to demonstrate what is possible when it comes to making data, content, and algorithms more real time, and event-driven as part of the API economy.
+url: google-cloud-key-management-service.streamdata.gallery
+tag: 
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery
-github_repo: google-cloud-key-management-service-kms
+github_user: streamdata-gallery-entities
+github_repo: google-cloud-key-management-service
 github_branch: master
 collections:
   listings:
