@@ -9,10 +9,10 @@ description: Cloud KMS is a cloud-hosted key management service that lets you ma
   data which you need to store in Google Cloud Platform.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/kms-lead.png
 x-kinRank: "9"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: Google Cloud Key Management Service
-created: "2018-05-21"
-modified: "2018-05-21"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/google-cloud-key-management-service/master/_listings/google-cloud-key-management-service/apis.md
 specificationVersion: "0.14"
 apis:
