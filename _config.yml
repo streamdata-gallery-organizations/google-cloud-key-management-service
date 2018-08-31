@@ -4,7 +4,7 @@ url: google-cloud-key-management-service.streamdata.gallery
 tag: Google Cloud Key Management Service
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-entities
+github_user: streamdata-gallery-topics
 github_repo: google-cloud-key-management-service
 github_branch: master
 collections:

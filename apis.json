@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Google Cloud Key Management Service",
+	"description": "This is a repository of google cloud key management service APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/google-cloud-key-management-service.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-30",
+	"url": "http://google-cloud-key-management-service.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Google Cloud Key Management Service",
+			"x-api-slug": "google-cloud-key-management-service",
+			"description": "Cloud KMS is a cloud-hosted key management service that lets you manage encryption for your cloud services the same way you do on-premises. You can generate, use, rotate and destroy AES256 encryption keys. Cloud KMS is integrated with IAM and Cloud Audit Logging so that you can manage permissions on individual keys, and monitor how these are used. Use Cloud KMS to protect secrets and other sensitive data which you need to store in Google Cloud Platform.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/kms-lead.png",
+			"humanURL": "https://cloud.google.com/kms/",
+			"baseURL": "://cloudkms.googleapis.com//",
+			"tags": "Google Cloud Key Management Service",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/google-cloud-key-management-service/master/_listings/google-cloud-key-management-service/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Google Cloud Key Management Service",
+	"include": [
+		{
+			"name": "Google Cloud Key Management Service",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/google-cloud-key-management-service/master/_listings/google-cloud-key-management-service/apis.yaml"
+		}
+	]
+}
